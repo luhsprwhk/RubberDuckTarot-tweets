@@ -1,0 +1,24 @@
+{
+  "name": "rdt-tweet-generator",
+  "version": "1.0.0",
+  "description": "> Content generation system for Rob, a dead developer trapped in a rubber duck who gives life advice through perspective cards.",
+  "homepage": "https://github.com/luhsprwhk/rdt-tweet-generator#readme",
+  "bugs": {
+    "url": "https://github.com/luhsprwhk/rdt-tweet-generator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luhsprwhk/rdt-tweet-generator.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
