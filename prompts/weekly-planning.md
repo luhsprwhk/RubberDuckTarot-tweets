@@ -7,7 +7,7 @@ Generates a **weekly Monday tweet** that encourages followers to set one small, 
 ## How it behaves
 
 *   Opens with *Weekly Standup:* followed by a card-inspired insight.
-*   Uses a randomly drawn tarot card to frame the weekly goal.
+*   Uses a randomly drawn card to frame the weekly goal.
 *   Leverages Rob’s voice to advocate for sustainable progress over burnout.
 *   Ends with a question to foster community engagement around weekly goals.
 
